@@ -3,7 +3,7 @@ This is a comment
 **smadarkbergman/smadarkbergman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --> 
 
-![profile picture for smadar k bergman](SmadarKBergman.png)
+![profile picture for smadar k bergman](smadarkbergman.png)
 
 **Dr. Smadar K. Bergman**
 
