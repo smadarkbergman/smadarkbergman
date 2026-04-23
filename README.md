@@ -3,23 +3,25 @@ This is a comment
 **smadarkbergman/smadarkbergman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --> 
 
+![This is the emblem for CHSAS](assets/CHSAS.png)
+
 ## Dr. Smadar K. Bergman
-Adjunct Faculty
-Computer Science Department
-Loyola University Chicago
+- Adjunct Faculty
+- Computer Science Department
+- Loyola University Chicago
 
 ## Education
 
-BA Mathematics, Summa Cum Laude, **Rutgers University**
-MSc Computer Science, **Rutgers University**
-PhD Computer Science AI & Machine Learning, **Rutgers University** 
-MAT Secondary Education Math, CS Endorsement, **National Louis University** 
+- BA Mathematics, Summa Cum Laude, **Rutgers University**
+- MSc Computer Science, **Rutgers University**
+- PhD Computer Science AI & Machine Learning, **Rutgers University** 
+- MAT Secondary Education Math, CS Endorsement, **National Louis University** 
 
 ## Research 
 
-Principal Investigator, Artificial Intelligence, **NASA Ames Research Center**
-Researcher, Institute for the Learning Sciences, **Northwestern University**
-Coordinator, Academic Technologies, Professional Schools, **Northwestern University**
+- Principal Investigator, Artificial Intelligence, **NASA Ames Research Center**
+- Researcher, Institute for the Learning Sciences, **Northwestern University**
+- Coordinator, Academic Technologies, Professional Schools, **Northwestern University**
 
 ## Teaching
 
