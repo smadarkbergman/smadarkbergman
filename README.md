@@ -49,4 +49,4 @@ Mother of boy-girl twins
 
 Twitter/X: Bergman_S_KD (mostly inactive)
 LinkedIn: Smadar-Bergman
-Email: Smadar.K.Bergman@gmail.com
+.Email: Smadar.K.Bergman@gmail.com
