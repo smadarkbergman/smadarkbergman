@@ -8,23 +8,21 @@ This is a comment
 **Dr. Smadar K. Bergman**
 
 Adjunct Faculty
-
 Computer Science Department
-
 Loyola University Chicago
 
 **Education**
 
-- BA Mathematics, Summa Cum Laude, **Rutgers University**
-- MSc Computer Science, **Rutgers University**
-- PhD Computer Science AI & Machine Learning, **Rutgers University** 
-- MAT Secondary Education Math, CS Endorsement, **National Louis University** 
+BA Mathematics, Summa Cum Laude, **Rutgers University**
+MSc Computer Science, **Rutgers University**
+PhD Computer Science AI & Machine Learning, **Rutgers University** 
+MAT Secondary Education Math, CS Endorsement, **National Louis University** 
 
 **Research** 
 
-- Principal Investigator, Artificial Intelligence, **NASA Ames Research Center**
-- Researcher, Institute for the Learning Sciences, **Northwestern University**
-- Coordinator, Academic Technologies, Professional Schools, **Northwestern University**
+Principal Investigator, Artificial Intelligence, **NASA Ames Research Center**
+Researcher, Institute for the Learning Sciences, **Northwestern University**
+Coordinator, Academic Technologies, Professional Schools, **Northwestern University**
 
 **Teaching**
 
@@ -37,18 +35,18 @@ Loyola University Chicago
 
 **Future Goals**
 
-- Create and teach an Intro to AI Course
-- Create and teach an Intro to Cybersecurity Course
-- Research teaching CS in universities in the Age of AI
+Create and teach an Intro to AI Course
+Create and teach an Intro to Cybersecurity Course
+Research teaching CS in universities in the Age of AI
 
 **Fun Facts** 
 
-- Award winning amateur photographer
-- Fabric artist
-- Mother of boy-girl twins
+Award winning amateur photographer
+Fabric artist
+Mother of boy-girl twins
 
 **Contact**  
 
-- Twitter/X: Bergman_S_KD (mostly inactive)
-- LinkedIn: Smadar-Bergman
-- Email: Smadar.K.Bergman@gmail.com
+Twitter/X: Bergman_S_KD (mostly inactive)
+LinkedIn: Smadar-Bergman
+Email: Smadar.K.Bergman@gmail.com
