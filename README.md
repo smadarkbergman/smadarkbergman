@@ -24,9 +24,9 @@ Coordinator, Academic Technologies, Professional Schools, **Northwestern Univers
 ## Teaching
 
 |Title|Location|Subject|Years|
-|---------|--------|------|
-Adjunct Faculty|**Loyola University Chicago**|AI & Ethics; OOP & Python; APCSP & Javascript 2013-present|
-High School Teacher|**Chicago Public Schools**|Mathematics & Computer Science|2013-2023|
+|---------|--------|------|------|
+|Adjunct Faculty|**Loyola University Chicago**|AI & Ethics; OOP & Python; APCSP & Javascript|2013-present|
+|Teacher|**Chicago Public Schools**|Mathematics & Computer Science|2013-2023|
 
 **Coding languages:** Python, Java, JavaScript, Swift
 
@@ -36,7 +36,7 @@ High School Teacher|**Chicago Public Schools**|Mathematics & Computer Science|20
 - Create and teach an Intro to Cybersecurity Course
 - Research teaching CS in universities in the Age of AI
 
-### Fun Facts 
+## Fun Facts 
 
 - Award winning amateur photographer
 - Fabric artist
@@ -47,5 +47,3 @@ High School Teacher|**Chicago Public Schools**|Mathematics & Computer Science|20
 - Twitter/X: Bergman_S_KD (mostly inactive)
 - LinkedIn: Smadar-Bergman
 - Email: Smadar.K.Bergman@gmail.com
-
-<!--
