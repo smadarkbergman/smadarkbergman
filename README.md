@@ -4,9 +4,9 @@ This is a comment
 --> 
 
 ## Dr. Smadar K. Bergman
-### Adjunct Faculty
-### Computer Science Department
-### Loyola University Chicago
+Adjunct Faculty
+Computer Science Department
+Loyola University Chicago
 
 ## Education
 
@@ -24,7 +24,7 @@ Coordinator, Academic Technologies, Professional Schools, **Northwestern Univers
 ## Teaching
 
 |Title|Location|Subject|Years|
-|---------|--------|------|------|
+|---------|--------|--------|--------|
 |Adjunct Faculty|**Loyola University Chicago**|AI & Ethics; OOP & Python; APCSP & Javascript|2013-present|
 |Teacher|**Chicago Public Schools**|Mathematics & Computer Science|2013-2023|
 
